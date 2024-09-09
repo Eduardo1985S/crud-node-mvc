@@ -38,8 +38,8 @@ coverage/
 # Pacote lock para yarn (caso você esteja usando npm)
 yarn.lock
 
-# Arquivo lock do npm (caso você esteja usando yarn)
-package-lock.json
+# # Arquivo lock do npm (caso você esteja usando yarn)
+# package-lock.json
 
 # Caso use PM2 para gerenciar processos
 .pids
