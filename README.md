@@ -14,5 +14,5 @@ Este projeto é um CRUD básico para gerenciar usuários, utilizando Node.js, Ex
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/Eduardo1985S/crud-node-mvc.git]
+   git clone https://github.com/Eduardo1985S/crud-node-mvc.git
 
