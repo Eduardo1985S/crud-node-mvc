@@ -1,14 +1,14 @@
 {
   "name": "crud-node-mvc",
   "version": "1.0.0",
-  "description": "Este projeto é um CRUD básico para gerenciar usuários, utilizando Node.js, Express.js e MySQL. Ele demonstra as principais funcionalidades do padrão MVC e como interagir com um banco de dados relacional.",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "body-parser": "^1.20.2",
     "ejs": "^3.1.10",
