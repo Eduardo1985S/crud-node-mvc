@@ -1,0 +1,45 @@
+# Diretório node_modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretórios de build e produção
+dist/
+build/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente
+.env
+
+# Cache do npm/yarn
+npm-debug.log
+yarn-debug.log
+
+# Pastas de cobertura de testes
+coverage/
+
+# Configurações de IDEs (opcional)
+.vscode/
+.idea/
+
+# Arquivos de configuração temporários
+*.tmp
+*.temp
+*.bak
+
+# Pacote lock para yarn (caso você esteja usando npm)
+yarn.lock
+
+# Arquivo lock do npm (caso você esteja usando yarn)
+package-lock.json
+
+# Caso use PM2 para gerenciar processos
+.pids
